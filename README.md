@@ -5,15 +5,15 @@ Text + Audio | Bilingual (English & 中文)
 
 ## 📅 Latest Brief
 
-**Latest:** [briefs/2026-09-05.md](briefs/2026-09-05.md)
+**Latest:** [2026-09-05.md](briefs/2026-09-05.md) · [🎧 中文語音](audio/2026-09-05_zh.mp3) · [🎧 English Audio](audio/2026-09-05_en.mp3)
 
 ---
 
 ## 📚 Archive
 
-| Date | Brief |
-|------|-------|
-| 2026-09-05 | [AI Trends + AI Safety（雙語）](briefs/2026-09-05.md) |
+| Date | Text | Audio |
+|------|------|-------|
+| 2026-09-05 | [AI Trends + AI Safety（雙語）](briefs/2026-09-05.md) | [🎧 中文](audio/2026-09-05_zh.mp3) · [🎧 EN](audio/2026-09-05_en.mp3) |
 
 ---
 
@@ -21,6 +21,6 @@ Text + Audio | Bilingual (English & 中文)
 
 - Generated daily by a Hermes cron job (08:00 EDT)
 - Two sections: 📈 AI Trends (builders + RSS + web) · 🛡️ AI Safety (alignment, governance, incidents, frontier frameworks)
-- Full bilingual text archived here; audio (中文 + English voice) pushed to Telegram daily
+- Full bilingual text + audio archived here; the same audio is pushed to Telegram daily
 
 *Bilingual · Updated automatically*
