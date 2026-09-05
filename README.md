@@ -13,7 +13,7 @@ Text + Audio | Bilingual (English & 中文)
 
 | Date | Brief |
 |------|-------|
-| 2026-09-05 | [First edition](briefs/2026-09-05.md) |
+| 2026-09-05 | [AI Trends + AI Safety（雙語）](briefs/2026-09-05.md) |
 
 ---
 
