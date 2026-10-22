@@ -5,7 +5,7 @@ Text + Audio | Bilingual (English & 中文)
 
 ## 📅 Latest Brief
 
-**Latest:** [2026-10-21.md](briefs/2026-10-21.md) · [🎧 中文](audio/2026-10-21_zh.mp3) · [🎧 EN](audio/2026-10-21_en.mp3)
+**Latest:** [2026-10-22.md](briefs/2026-10-22.md) · [🎧 中文](audio/2026-10-22_zh.mp3) · [🎧 EN](audio/2026-10-22_en.mp3)
 
 ---
 
@@ -13,6 +13,7 @@ Text + Audio | Bilingual (English & 中文)
 
 | Date | Text | Audio |
 |------|------|-------|
+| 2026-10-22 | [AI Trends + AI Safety（雙語）](briefs/2026-10-22.md) | [🎧 中文](audio/2026-10-22_zh.mp3) · [🎧 EN](audio/2026-10-22_en.mp3) |
 | 2026-10-21 | [AI Trends + AI Safety（雙語）](briefs/2026-10-21.md) | [🎧 中文](audio/2026-10-21_zh.mp3) · [🎧 EN](audio/2026-10-21_en.mp3) |
 | 2026-10-20 | [AI Trends + AI Safety（雙語）](briefs/2026-10-20.md) | [🎧 中文](audio/2026-10-20_zh.mp3) · [🎧 EN](audio/2026-10-20_en.mp3) |
 | 2026-10-19 | [AI Trends + AI Safety（雙語）](briefs/2026-10-19.md) | [🎧 中文](audio/2026-10-19_zh.mp3) · [🎧 EN](audio/2026-10-19_en.mp3) |
